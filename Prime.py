@@ -30,6 +30,6 @@ for i in range(2,e):
         else:
             ee = 9696
 if ee == 9696 :
- e = e
+ e = emirpcheck(e)
 else:
  print(f"{e} is not a prime number")
