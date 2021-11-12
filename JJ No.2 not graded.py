@@ -1,6 +1,6 @@
 prices = {
     "Banana" : 4,
-    "Apple" : 0,
+    "Apple" : 2,
     "Orange" : 1.5,
     "Pear" : 3,
 }
@@ -8,7 +8,7 @@ prices = {
 stocks = {
     "Banana" : 6,
     "Apple" : 0,
-    "Orange" : 1.5,
+    "Orange" : 32,
     "Pear" : 15,
 }
 
