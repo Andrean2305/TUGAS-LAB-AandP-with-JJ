@@ -1,6 +1,6 @@
 prices = {
     "Banana" : 4,
-    "Apple" : 0,
+    "Apple" : 2,
     "Orange" : 1.5,
     "Pear" : 3,
 }
